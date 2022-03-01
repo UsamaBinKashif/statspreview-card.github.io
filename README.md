@@ -24,9 +24,9 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-[Solution URL](https://github.com/UsamaBinKashif/nft-cardcomponent.github.io)
+[Solution URL](https://github.com/UsamaBinKashif/statuspreviewcard)
 </br>
-[Live Site URL](https://usamabinkashif.github.io/nft-cardcomponent.github.io/)
+[Live Site URL](https://usamabinkashif.github.io/statspreview-card.github.io/)
 
 ### Built with
 
